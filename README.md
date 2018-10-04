@@ -1,0 +1,2 @@
+This is a web scraper built for flipkart website to scrape the data related to smartphones from this website. Any keywords related to smartphones eg: Iphone, Android, redmi or even smartphone etc will be accepted as input and the code will scrape the name of the smartphone, its price and its ratings for first five page results.
+This code also creates a new csv file to keep records of your scraped data.
